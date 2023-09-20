@@ -15,7 +15,7 @@ a{
 #skills{
 	width:100%;
 	height:80vh;
-	background-image:url("/Assets/images/bgimg.jpg");
+	background-image:url("./Assets/images/bgimg.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	position: relative;
@@ -25,14 +25,14 @@ a{
 #dark_bg{
 	background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/Assets/images/blackbg.png);
+    background-image: url("./Assets/images/blackbg.png");
 	color: #fff;
 }
 
 section{
 	width:100%;
 	height:80vh;
-	background-image:url("/Assets/images/bgimg.jpg");
+	background-image:url("./Assets/images/bgimg.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	position: relative;
@@ -318,7 +318,7 @@ section .title{
     justify-content: space-between;
 }
 .mydiv{
-	background-image: url("/Assets/images/blackbg.png");
+	background-image: url("./Assets/images/blackbg.png");
 }
 
 
@@ -394,13 +394,13 @@ section .title{
 } 
 
 .box-1{
-	background-image:url("/Assets/images/projectbg.png");
+	background-image:url("./Assets/images/projectbg.png");
 }
 .box-2{
-	background-image:url("/Assets/images/projectbg.png");
+	background-image:url("./Assets/images/projectbg.png");
 }
 .box-3{
-	background-image: url("/Assets/images/projectbg.png");
+	background-image: url("./Assets/images/projectbg.png");
 }
 
 .box-1 span,
@@ -462,7 +462,7 @@ section .title{
     height: 590px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/Assets/images/blackbg.png);
+    background-image: url("./Assets/images/blackbg.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
